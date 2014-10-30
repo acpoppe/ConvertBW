@@ -1,0 +1,6 @@
+C:\Users\Curtis\Dropbox\DailyProgrammer\09082014\ConvertBW\ConvertBW\bin\Debug\ConvertBW.exe.config
+C:\Users\Curtis\Dropbox\DailyProgrammer\09082014\ConvertBW\ConvertBW\bin\Debug\ConvertBW.exe
+C:\Users\Curtis\Dropbox\DailyProgrammer\09082014\ConvertBW\ConvertBW\bin\Debug\ConvertBW.pdb
+C:\Users\Curtis\Dropbox\DailyProgrammer\09082014\ConvertBW\ConvertBW\obj\Debug\ConvertBW.csprojResolveAssemblyReference.cache
+C:\Users\Curtis\Dropbox\DailyProgrammer\09082014\ConvertBW\ConvertBW\obj\Debug\ConvertBW.exe
+C:\Users\Curtis\Dropbox\DailyProgrammer\09082014\ConvertBW\ConvertBW\obj\Debug\ConvertBW.pdb
